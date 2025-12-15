@@ -77,7 +77,7 @@ else:
         }
         elif(cast=="OBC"):
             {
-                print("sorry try again later")
+                print("sorry try again later. >:")
             }
         else:
             {
@@ -88,4 +88,5 @@ else:
                 #ternary oprater
             food=input("enter food:")
             eat="yes" if food=="cake" else "no"
+
             print(eat)
